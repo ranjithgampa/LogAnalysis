@@ -1,0 +1,10 @@
+operation,o_to_1_sec,1_to_2_sec,2_to_3_sec,3_to_4_sec,above_4_sec,total_no_of_requests,avg_duration,min_duration,max_duration
+consult-search,4,1,0,0,0,5,636.4,1066,749
+openOrder,72663,70675,47631,19562,8286,218817,1829.3061736519558,-1042,9991
+order-search,5566,978,408,132,146,7230,901.6672199170124,-430,999
+queueLoad,7969,2929,2270,302,397,13867,1271.2290329559385,-12468,999
+quickConsult,7,2289,1242,205,65,3808,2032.2455357142858,1010,996
+saveOrderSheet,80183,80622,6625,1084,1613,171027,1144.919513069648,-10,9998
+variance-search,65,31,15,4,6,121,1498.099173553719,1008,998
+WARN: The method class org.apache.commons.logging.impl.SLF4JLogFactory#release() was invoked.
+WARN: Please see http://www.slf4j.org/codes.html#release for an explanation.
